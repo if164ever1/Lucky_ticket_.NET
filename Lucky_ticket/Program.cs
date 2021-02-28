@@ -12,8 +12,7 @@ namespace Lucky_ticket
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("This program determines whether you have entered a lucky number");
-            Console.WriteLine("\t\t1. Enter the number. Must be between 4 and 8 digits.\n" +
-                "\t\t2. To exit the program, press q.\n");
+            Console.WriteLine("\t\t1. Enter the number. Must be between 4 and 8 digits.\n");
             Console.ResetColor();
         }
 
